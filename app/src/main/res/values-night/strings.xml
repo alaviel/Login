@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email">Email</string>
+    <string name="emailWarning">Ingrese el Email</string>
+    <string name="passwordWarning">Ingrese la Contraseña</string>
+    <string name="tokenData">Token Data</string>
+    <string name="token">Token</string>
+</resources>
